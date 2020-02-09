@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="7faf8548-5f77-4a3a-8882-2d1ea0207e11" name="Default Changelist" comment="" />
+    <list default="true" id="7faf8548-5f77-4a3a-8882-2d1ea0207e11" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -285,6 +287,7 @@
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="full.screen.before.presentation.mode" value="true" />
@@ -367,6 +370,7 @@
       <workItem from="1580095443053" duration="1831000" />
       <workItem from="1580146266870" duration="755000" />
       <workItem from="1580328546444" duration="1137000" />
+      <workItem from="1581212204663" duration="453000" />
     </task>
     <servers />
   </component>
